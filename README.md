@@ -5,7 +5,7 @@ An interactive Power BI dashboard visualizing health metrics like BMI, weight, h
 This Power BI report visualizes key health indicators based on BMI (Body Mass Index), age, weight, height, and gender. It provides insights into the distribution and averages of these metrics to help identify patterns across different BMI categories and genders.
 
 ---
-
+![Health BMI Preview](health-bmi-analysis-dashboad.png)
 ## 🔍 Key Highlights
 
 ### Overall Averages:
